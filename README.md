@@ -1,16 +1,15 @@
-### Hi there 👋
+# PSM info
 
-<!--
-**PSM-031211/psm-031211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PSM Contact
+- Discord : PSM#3232
 
-Here are some ideas to get you started:
+PSM URL
+- Github  : https://github.com/PSM-031211
+- WEB     : https://psm031211.netlify.app
+- Youtube : https://www.youtube.com/channel/UCXxog3dCO3gX9P62CjPYWOg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats ⚡
+![PSM's github stats](https://github-readme-stats.vercel.app/api?username=psm-031211&show_icons=true&theme=solarized-light)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psm-031211&layout=compact)](https://github.com/HyeongGu0401/github-readme-stats)
