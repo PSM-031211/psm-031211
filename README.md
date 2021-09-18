@@ -1,6 +1,6 @@
 ## PSM Contact
 
-| Discord | PSM#3232 |
+| DISCORD | PSM#3232 |
 | ------ | ------ |
 
 
@@ -9,8 +9,8 @@
 | WEB NAME | URL |
 | ------ | ------ |
 | PSM WEB | https://psm031211.netlify.app |
-| GitHub | https://github.com/PSM-031211 |
-| Youtube | https://www.youtube.com/channel/UCXxog3dCO3gX9P62CjPYWOg |
+| GITHUB | https://github.com/PSM-031211 |
+| YOUTUBE | https://www.youtube.com/channel/UCXxog3dCO3gX9P62CjPYWOg |
 
 
 ## My stats
