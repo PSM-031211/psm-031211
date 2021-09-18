@@ -6,12 +6,11 @@
 
 ## PSM URL
 
-| WEB | https://psm031211.netlify.app] |
+| WEB NAME | URL |
 | ------ | ------ |
+| PSM WEB | https://psm031211.netlify.app |
 | GitHub | https://github.com/PSM-031211 |
-| ------ | ------ |
 | Youtube | https://www.youtube.com/channel/UCXxog3dCO3gX9P62CjPYWOg |
-| ------ | ------ |
 
 
 ## My stats
