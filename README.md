@@ -8,7 +8,7 @@
 
 | WEB NAME | URL |
 | ------ | ------ |
-| PSM WEB | https://psm031211.netlify.app |
+| PSM WEB |  UNKNOWN |
 | GITHUB | https://github.com/PSM-031211 |
 | YOUTUBE | https://www.youtube.com/channel/UCXxog3dCO3gX9P62CjPYWOg |
 
