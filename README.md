@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psm-031211&layout=compact)](https://github.com/HyeongGu0401/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<psm20031211>&show_icons=true&locale=en&layout=compact" alt="<psm20031211>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psm20031211&show_icons=true&locale=en&layout=compact" alt="psm20031211" /></p>
